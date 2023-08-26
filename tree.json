@@ -1,0 +1,171 @@
+{
+    "label": "",
+    "children": [
+        {
+            "label": "Backend",
+            "children": [
+                
+            ]
+        },
+        {
+            "label": "system design",
+            "children": [
+                {
+                    "label": "caching"  
+                }
+            ],
+            "tags": [],
+            "resources": [
+                {
+                    "src": "",
+                    "alt": "",
+                    "des": ""
+                }
+            ]
+        },
+        {
+            "label": "web development",
+            "children": [
+                {
+                    "label": "SEO",
+                    "children": []
+                },
+                {
+                    "label": "html",
+                    "children": []
+                },
+                {
+                    "label": "css",
+                    "children": []
+                },
+                {
+                    "label": "web apis",
+                    "children": []
+                },
+                {
+                    "label": "http",
+                    "children": []
+                },
+                {
+                    "label": "accessiblity",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "programming languages",
+            "children": [
+                {
+                    "label": "javascript",
+                    "children": [
+                        {
+                            "label": "basics"
+                        },
+                        {
+                            "label": "scope and closures"
+                        },
+                        {
+                            "label": "objects and classes"
+                        },
+                        {
+                            "label": "types and grammar"
+                        }, 
+                        {
+                            "label": "async and performance"
+                        },
+                        {
+                            "label": "ESNext & Beyond"
+                        },
+                        {
+                            "label": "typescript",
+                            "children": [
+                                {
+                                    "label": "configuration"
+                                },
+                                {
+                                    "label": "generics"
+                                },
+                                {
+                                    "label": "generics"
+                                },
+                                {
+                                    "label": "generics"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "go",
+                    "children": [
+                        {
+                            "label": "basics"
+                        },
+                        {
+                            "label": "concurrency"
+                        },
+                        {
+                            "label": "testing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Artifical intelligence",
+            "children": [
+                {
+                    "label": "machine learning"
+                }
+            ]
+        },
+        {
+            "label": "computer science",
+            "children": [
+                {
+                    "label": "algorithms",
+                    "children": []
+                },
+                {
+                    "label": "data structures",
+                    "children": []
+                },
+                {
+                    "label": "computer networks",
+                    "children": []
+                },
+                {
+                    "label": "databases",
+                    "children": []
+                },
+                {
+                    "label": "operating systems",
+                    "children": []
+                },
+                {
+                    "label": "languages and compilers",
+                    "children": []
+                },
+                {
+                    "label": "distributed systems",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "label": "security",
+            "children": []
+        },
+        {
+            "label": "git",
+            "children": [
+                {
+                    "label": "basics"
+                },
+                {
+                    "label": "advanced"
+                }
+            ]
+        }
+    ]
+}
